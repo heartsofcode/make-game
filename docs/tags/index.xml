@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on make&#43;game @ Heart of Code</title>
+    <link>https://makeandga.me/tags/</link>
+    <description>Recent content in Tags on make&#43;game @ Heart of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://makeandga.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Frame</title>
+      <link>https://makeandga.me/tags/a-frame/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/a-frame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative Code</title>
+      <link>https://makeandga.me/tags/creative-code/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/creative-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Jam</title>
+      <link>https://makeandga.me/tags/game-jam/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/game-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Art</title>
+      <link>https://makeandga.me/tags/generative-art/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/generative-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openrndr</title>
+      <link>https://makeandga.me/tags/openrndr/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/openrndr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Programming</title>
+      <link>https://makeandga.me/tags/visual-programming/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/visual-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vr</title>
+      <link>https://makeandga.me/tags/vr/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://makeandga.me/tags/web/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/tags/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>make&#43;game @ Heart of Code</title>
+    <link>https://makeandga.me/</link>
+    <description>Recent content on make&#43;game @ Heart of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 19:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://makeandga.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>maake&#43;game: intro to arduino</title>
+      <link>https://makeandga.me/event/make-game-intro-arduino/</link>
+      <pubDate>Mon, 02 Mar 2020 19:30:00 +0100</pubDate>
+      
+      <guid>https://makeandga.me/event/make-game-intro-arduino/</guid>
+      <description>Henlo</description>
+    </item>
+    
+    <item>
+      <title>make&#43;game: Monday hangout</title>
+      <link>https://makeandga.me/event/make-game-regular/</link>
+      <pubDate>Sun, 02 Feb 2020 19:30:00 +0100</pubDate>
+      
+      <guid>https://makeandga.me/event/make-game-regular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js13k submission</title>
+      <link>https://makeandga.me/2019/09/js13k-submission/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/09/js13k-submission/</guid>
+      <description>&lt;p&gt;The jam is over! And I &lt;a href=&#34;https://js13kgames.com/entries/backstreetsback&#34;&gt;submitted backstreetsback in time&lt;/a&gt;. Yay!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>js13k update</title>
+      <link>https://makeandga.me/2019/08/js13k-update/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/js13k-update/</guid>
+      <description>&lt;p&gt;Small progress report this week!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>js13k has started</title>
+      <link>https://makeandga.me/2019/08/js13k-started/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/js13k-started/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://js13kgames.com/&#34;&gt;JS13k 2019&lt;/a&gt; has begun last week!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creative Code Stammtisch #64</title>
+      <link>https://makeandga.me/2019/08/creative-coding-stammtisch/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/creative-coding-stammtisch/</guid>
+      <description>&lt;p&gt;I attended the &lt;a href=&#34;https://www.meetup.com/creativeCodeBerlin/events/hgqjfryzlbdb/&#34;&gt;Creative Code Stammtisch&lt;/a&gt; in Berlin for the first time last Friday.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://makeandga.me/2019/08/hello-world/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/hello-world/</guid>
+      <description>&lt;p&gt;This is make+game, your new favorite Monday evening get-together!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

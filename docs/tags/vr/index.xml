@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vr on make&#43;game @ Heart of Code</title>
+    <link>https://makeandga.me/tags/vr/</link>
+    <description>Recent content in Vr on make&#43;game @ Heart of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://makeandga.me/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>js13k submission</title>
+      <link>https://makeandga.me/2019/09/js13k-submission/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/09/js13k-submission/</guid>
+      <description>&lt;p&gt;The jam is over! And I &lt;a href=&#34;https://js13kgames.com/entries/backstreetsback&#34;&gt;submitted backstreetsback in time&lt;/a&gt;. Yay!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>js13k update</title>
+      <link>https://makeandga.me/2019/08/js13k-update/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/js13k-update/</guid>
+      <description>&lt;p&gt;Small progress report this week!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>js13k has started</title>
+      <link>https://makeandga.me/2019/08/js13k-started/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/js13k-started/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://js13kgames.com/&#34;&gt;JS13k 2019&lt;/a&gt; has begun last week!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

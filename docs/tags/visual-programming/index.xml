@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Programming on make&#43;game @ Heart of Code</title>
+    <link>https://makeandga.me/tags/visual-programming/</link>
+    <description>Recent content in Visual Programming on make&#43;game @ Heart of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://makeandga.me/tags/visual-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creative Code Stammtisch #64</title>
+      <link>https://makeandga.me/2019/08/creative-coding-stammtisch/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2019/08/creative-coding-stammtisch/</guid>
+      <description>&lt;p&gt;I attended the &lt;a href=&#34;https://www.meetup.com/creativeCodeBerlin/events/hgqjfryzlbdb/&#34;&gt;Creative Code Stammtisch&lt;/a&gt; in Berlin for the first time last Friday.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
