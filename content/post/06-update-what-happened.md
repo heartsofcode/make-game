@@ -3,7 +3,7 @@ title: "What happened in 2019"
 slug: what-happened-2019
 date: 2020-02-03
 categories:
-- status
+- fyi
 tags:
 - arduino
 - motors
@@ -39,4 +39,4 @@ Also, I've managed to get this Hugo page to generate an iCal file, so there is a
 
 That's it for now!
 
-    ~ lislis
+~ lislis
