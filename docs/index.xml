@@ -12,21 +12,36 @@
     
     
     <item>
-      <title>maake&#43;game: intro to arduino</title>
-      <link>https://makeandga.me/event/make-game-intro-arduino/</link>
+      <title>Intro to Arduino</title>
+      <link>https://makeandga.me/event/intro-arduino/</link>
       <pubDate>Mon, 02 Mar 2020 19:30:00 +0100</pubDate>
       
-      <guid>https://makeandga.me/event/make-game-intro-arduino/</guid>
-      <description>Henlo</description>
+      <guid>https://makeandga.me/event/intro-arduino/</guid>
+      <description>This Monday we&amp;rsquo;re doing a little introduction to physical computing with Arduino and sensors! No prior knowledge required (but a little programming knowledge will be useful ;))!
+What? What are microcontrollers and why is programming them different from programming regular computers? What is even electricity and how do circuits work? How do I connect a sensor or other parts as inputs for my project?
+We have a limited amount of Arduino micro-controllers, sensors and cables and whatever else we might need but feel free to bring your own micro-controllers and other equipment you have lying around at home collecting dust and work with those!</description>
     </item>
     
     <item>
-      <title>make&#43;game: Monday hangout</title>
-      <link>https://makeandga.me/event/make-game-regular/</link>
-      <pubDate>Sun, 02 Feb 2020 19:30:00 +0100</pubDate>
+      <title>Regular hangout</title>
+      <link>https://makeandga.me/event/regular-hangout/</link>
+      <pubDate>Mon, 03 Feb 2020 19:30:00 +0100</pubDate>
       
-      <guid>https://makeandga.me/event/make-game-regular/</guid>
-      <description></description>
+      <guid>https://makeandga.me/event/regular-hangout/</guid>
+      <description>The regular Monday hangout is a relaxed evening for working on your own project or to just hang out and see what others are up to. Come and ask questions, brainstorm, draw, (3d) print, solder, program or drink Mate as much as you like.
+It happens every Monday unless noted otherwise. Subscribe to the iCal calendar for updates.
+The entrance is a bit hard to find, look out for signs.</description>
+    </item>
+    
+    <item>
+      <title>What happened in 2019</title>
+      <link>https://makeandga.me/2020/02/what-happened-2019/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2020/02/what-happened-2019/</guid>
+      <description>Woof! Time flies or what?! Unbelievable!
+I&amp;rsquo;ll just quickly want to write down a little summary of what happened in the last months of 2019 and give a little outlook on what is planned in 2020. Let&amp;rsquo;s get going!
+We&amp;rsquo;ve had a few visitors who had cool projects in mind and I&amp;rsquo;d to talk a little bit about those. They make great examples of what you could do at make+game.</description>
     </item>
     
     <item>

@@ -24,7 +24,7 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER;CN="lislis":mailto:mail@lislis.de
-SUMMARY:maake+game: intro to arduino
+SUMMARY:[make+game] Intro to Arduino
 DESCRIPTION:Ever wanted to get physical? This is your chance!
 UID:20200302T193000@makeandga.me
 SEQUENCE:0
@@ -34,22 +34,22 @@ DTSTART:20200302T193000
 
 DTEND:20200302T220000
 LOCATION:Heart of Code - Mariannenplatz 2A
-URL:https://makeandga.me/event/make-game-intro-arduino/
+URL:https://makeandga.me/event/intro-arduino/
 END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER;CN="lislis":mailto:mail@lislis.de
-SUMMARY:make+game: Monday hangout
-DESCRIPTION:Ever wanted to get physical? This is your chance!
-UID:20200202T193000@makeandga.me
+SUMMARY:[make+game] Regular hangout
+DESCRIPTION:Regular Monday evening hangout.
+UID:20200203T193000@makeandga.me
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20200202T193000
-DTSTART:20200202T193000
+DTSTAMP:20200203T193000
+DTSTART:20200203T193000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DTEND:20200202T220000
+DTEND:20200203T220000
 LOCATION:Heart of Code - Mariannenplatz 2A
-URL:https://makeandga.me/event/make-game-regular/
+URL:https://makeandga.me/event/regular-hangout/
 END:VEVENT
 
 END:VCALENDAR

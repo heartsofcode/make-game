@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Threejs on make&#43;game @ Heart of Code</title>
+    <link>https://makeandga.me/tags/threejs/</link>
+    <description>Recent content in Threejs on make&#43;game @ Heart of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://makeandga.me/tags/threejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What happened in 2019</title>
+      <link>https://makeandga.me/2020/02/what-happened-2019/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://makeandga.me/2020/02/what-happened-2019/</guid>
+      <description>Woof! Time flies or what?! Unbelievable!
+I&amp;rsquo;ll just quickly want to write down a little summary of what happened in the last months of 2019 and give a little outlook on what is planned in 2020. Let&amp;rsquo;s get going!
+We&amp;rsquo;ve had a few visitors who had cool projects in mind and I&amp;rsquo;d to talk a little bit about those. They make great examples of what you could do at make+game.</description>
+    </item>
+    
+  </channel>
+</rss>

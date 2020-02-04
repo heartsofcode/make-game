@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://makeandga.me/event/make-game-intro-arduino/</loc>
+    <loc>https://makeandga.me/event/intro-arduino/</loc>
     <lastmod>2020-03-02T19:30:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makeandga.me/event/make-game-regular/</loc>
-    <lastmod>2020-02-02T19:30:00+01:00</lastmod>
+    <loc>https://makeandga.me/event/regular-hangout/</loc>
+    <lastmod>2020-02-03T19:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makeandga.me/2020/02/what-happened-2019/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +54,12 @@
   </url>
   
   <url>
+    <loc>https://makeandga.me/tags/arduino/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://makeandga.me/categories/</loc>
     <priority>0</priority>
   </url>
@@ -72,6 +83,12 @@
   </url>
   
   <url>
+    <loc>https://makeandga.me/tags/fonts/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://makeandga.me/categories/fyi/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -90,6 +107,12 @@
   </url>
   
   <url>
+    <loc>https://makeandga.me/tags/motors/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://makeandga.me/tags/openrndr/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -97,19 +120,25 @@
   
   <url>
     <loc>https://makeandga.me/post/</loc>
-    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://makeandga.me/categories/status/</loc>
-    <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://makeandga.me/tags/</loc>
     <lastmod>2019-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://makeandga.me/tags/threejs/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
