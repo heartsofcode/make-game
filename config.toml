@@ -7,7 +7,6 @@ theme = "tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
-publishDir = "docs"
 
 [outputs]
   section = ["HTML", "Calendar"]
