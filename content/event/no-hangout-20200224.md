@@ -5,7 +5,9 @@ date: 2020-02-24T19:30:00+01:00
 summary: "Meeting this Monday, Feb 24th is cancelled"
 end: "2020-02-24T22:00:00+01:00"
 location: "No meeting, no location"
+recurr_parent: 2020-02-03T19:30:00+01:00
 sequence: 1
+status: CANCELLED
 organizer:
   name: "lislis"
   email: "mail@lislis.de"

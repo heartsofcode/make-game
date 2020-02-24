@@ -26,13 +26,14 @@ BEGIN:VEVENT
 {{ with .Params.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}{{ end }}
 SUMMARY:[make+game] {{.Title}}
 DESCRIPTION:{{.Params.summary}}
-UID:{{dateFormat "20060102T150405" .Date}}@makeandga.me
+UID:{{with .Params.recurr_parent}}{{dateFormat "20060102T150405" .}}{{else}}{{dateFormat "20060102T150405" .Date}}{{end}}@makeandga.me{{if .Params.recurr_parent}}
+RECURRENCE-ID;VALUE=DATE:{{dateFormat "20060102" .Date}}{{end}}
 SEQUENCE:{{ with .Params.sequence}}{{.}}{{else}}0{{end}}
 STATUS:{{ with .Params.status}}{{.}}{{else}}CONFIRMED{{end}}
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
-DTSTART:{{dateFormat "20060102T150405" .Date}}
-{{ with .Params.recurring}}RRULE:FREQ=WEEKLY;BYDAY=MO{{ end}}
-{{ with .Params.end }}DTEND:{{dateFormat "20060102T150405" .}}{{ end }}
+DTSTART;VALUE=DATE:{{dateFormat "20060102" .Date}}{{ with .Params.recurring}}
+RRULE:FREQ=WEEKLY;BYDAY=MO{{ end}}{{ with .Params.end }}
+DTEND:{{dateFormat "20060102T150405" .}}{{ end }}
 LOCATION:{{with .Params.location}}{{.}}{{else}}TBD{{end}}
 URL:{{.Permalink}}
 END:VEVENT
