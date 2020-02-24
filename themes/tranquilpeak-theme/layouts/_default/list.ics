@@ -20,8 +20,7 @@ TZNAME:CET
 DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
-END:VTIMEZONE
-{{range .Pages}}
+END:VTIMEZONE{{range .Pages}}
 BEGIN:VEVENT
 {{ with .Params.organizer}}ORGANIZER;CN="{{ .name }}":mailto:{{ .email }}{{ end }}
 SUMMARY:[make+game] {{.Title}}
