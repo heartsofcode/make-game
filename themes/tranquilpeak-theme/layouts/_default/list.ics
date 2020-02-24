@@ -27,8 +27,8 @@ BEGIN:VEVENT
 SUMMARY:[make+game] {{.Title}}
 DESCRIPTION:{{.Params.summary}}
 UID:{{dateFormat "20060102T150405" .Date}}@makeandga.me
-SEQUENCE:0
-STATUS:CONFIRMED
+SEQUENCE:{{ with .Params.sequence}}{{.}}{{else}}0{{end}}
+STATUS:{{ with .Params.status}}{{.}}{{else}}CONFIRMED{{end}}
 DTSTAMP:{{dateFormat "20060102T150405" .Date}}
 DTSTART:{{dateFormat "20060102T150405" .Date}}
 {{ with .Params.recurring}}RRULE:FREQ=WEEKLY;BYDAY=MO{{ end}}
