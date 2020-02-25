@@ -52,14 +52,55 @@
 
     <script src="/js/ical.min.js"></script>
     <script>
-     console.log("Huzza");
+     let datelist = [];
 
      var iCalendarData = fetch('/event/index.ics')
        .then(r => r.text())
        .then(d => {
          //debugger
          var jcalData = ICAL.parse(d);
-         debugger
+         var comp = new ICAL.Component(jcalData);
+         var vevents = comp.getAllSubcomponents('vevent');
+
+         vevents.forEach((v,i) => {
+           let event = new ICAL.Event(v);
+           //debugger
+           datelist.push(event);
+         });
+
+         // main issue:
+         // we need to now what is a 'proper' event
+         // and what is a recurrence event.
+         // the proper event should props store the uid as identifyer
+         // and an iterator sequence as children.
+         // we build the uid and recurrence id from the recurrence event
+         // and populate the additional event info in the iterator sequence.
+         // BUT the order might not work out, so we need to filter recurrence events out
+         // and use them later once the base structure is made up
+
+         datelist.forEach((v,i) => {
+           //let ev = new ICAL.Component(jcalData);
+           console.log(v.summary, v.startDate.toJSDate().toLocaleDateString());
+
+           if (v.isRecurring()) {
+             let counter = 0;
+             let counterlimit = 10;
+             //debugger
+             //let now = new Date(); // figure out how to start from currrent date
+             let expand = v.iterator();
+
+             //debugger
+             let next = expand.next();
+             while((counter < counterlimit) && next) {
+               //debugger
+               //datelist.push(next);
+               console.log(next.toJSDate().toLocaleDateString());
+               next = expand.next();
+               counter += 1;
+             }
+           }
+
+         });
        });
     </script>
 {{ partial "foot.html" . }}
