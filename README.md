@@ -12,7 +12,7 @@ Once you have Hugo installed, you can run a dev server with `hugo serve`, or sim
 
 As of right now there are two types of contents, **posts** for blog posts and **events** for calendar events, that will render both an HTML representation and an .ics file that you can subscribe to in a calendar client of your choice!
 
-Future &tm; plans include **projects** for project description and documentation and **material** for learning materials, tutorials and so forth.
+Future ™️ plans include **projects** for project description and documentation and **material** for learning materials, tutorials and so forth.
 
 ## Theme
 
